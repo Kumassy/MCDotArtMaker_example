@@ -1,0 +1,12 @@
+GEM
+  specs:
+    mc_dot_art_maker (0.1.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mc_dot_art_maker
+
+BUNDLED WITH
+   1.11.2
