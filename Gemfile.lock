@@ -1,4 +1,5 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     mc_dot_art_maker (0.1.4)
 
